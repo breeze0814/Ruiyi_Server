@@ -1,0 +1,4 @@
+{
+  "watch": ["src"],
+  "exec": "node src/nodejs/bin/www"
+}
